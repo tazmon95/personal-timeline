@@ -9,5 +9,21 @@
             "headline": "Whitney Houston<br/> 1963 - 2012",
             "text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
         }
-    }
+    },
+    "events": [{
+        "start_date": {
+            "year": "2010",
+            "month": "10",
+            "day": "1"
+        },
+        "end_date": {
+            "year": "2011",
+            "month": "04",
+            "day": "10"
+        },
+        "text": {
+            "headline": "President",
+            "text": "Mattang LLC."
+        }
+    }]
 }
