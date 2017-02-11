@@ -77,6 +77,210 @@
                 "headline": "First Lieutenant",
                 "text": "<p style=\"font-size:20px;\">USS CURTIS WILBUR (DDG-54), Yokosuka, Japan</p><ul><li>Supervised and motivated 46 sailors in their performance of seamanship functions and evolutions in a dynamic environment. Prepared work schedules and directed several operations, including: mooring, docking, anchoring, fueling, towing, and transferring of personnel and cargo at sea.</li></ul>"
             }
+        },
+        {
+            "start_date": {
+                "year": "2006",
+                "month": "1",
+                "day": "16"
+            },
+            "end_date": {
+                "year": "2007",
+                "month": "1",
+                "day": "23"
+            },
+            "display_date": "2006 — 2007",
+            "text": {
+                "headline": "Public Affairs Officer",
+                "text": "<p style=\"font-size:20px;\">SHIP REPAIR FACILITY / JAPAN REGIONAL MAINTENANCE CENTER, Yokosuka, Japan</p><ul><li>United a multi-national team and developed an 88-item checklist based upon 14 regulations that the U.S. Government, Department of Defense, and U.S. Navy issued regarding publicly accessible websites.</li><li>Re-coded the Command website to ensure 100% compliance with all applicable regulations.</li></ul>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2007",
+                "month": "02",
+                "day": "10"
+            },
+            "end_date": {
+                "year": "2009",
+                "month": "7",
+                "day": "30"
+            },
+            "display_date": "2007 — 2009",
+            "text": {
+                "headline": "Operations Officer",
+                "text": "<p style=\"font-size:20px;\">FLEET ACTIVITIES CHINHAE, Chinhae, South Korea</p><ul><li>Planned operational exercises and responses to various wartime scenarios, and led the Command response in 6 Tier I Joint / Combined Exercises, ensuring effective mission capability for the U.S. Navy in South Korea.</li><li>Requested funding ($8M+), helped design, and oversaw set-up of a new Regional Maritime Operations Center.</li></ul>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2008",
+                "month": "9",
+                "day": "1"
+            },
+            "end_date": {
+                "year": "2010",
+                "month": "9",
+                "day": "30"
+            },
+            "display_date": "2008 — 2010",
+            "text": {
+                "headline": "Administration Officer",
+                "text": "<p style=\"font-size:20px;\">FLEET ACTIVITIES CHINHAE, Chinhae, South Korea</p><ul><li>Tracked over 400 personnel records, ensuring timely evaluation and recognition of achievements.</li><li>Maintained all regulations, documentation, and correspondence; and administered the command budget of more than $7 million.</li><li>Planned over 100 Distinguished Visitor itineraries for travel to the Chinhae area, including the Secretary of Defense, Secretary of the Navy, Chief of Naval Operations, and Commanders, U.S. Forces Korea and 7th Fleet.</li><li>Served as interim Base Commander on numerous occasions when the Commanding Officer was not available.</li><li>Initiated a monthly meeting with U.S. and Korean Naval officers for integrated planning opportunities.</li><li>Developed and participated in 8 one-week-long English immersion classes for Korean sailors. Earned an award from the Chief of Naval Operations, Republic of Korea, for the Command’s role.</li><li>Extra duties: Installation Webmaster, Public Affairs Officer, Training Officer, Protocol Officer, Senior Watch Officer, and served for 2 months as acting Executive Officer.</li></ul>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2007",
+                "month": "5",
+                "day": "6"
+            },
+            "end_date": {
+                "year": "2010",
+                "month": "09",
+                "day": "30"
+            },
+            "display_date": "2007 — 2010",
+            "text": {
+                "headline": "Operational Training & Readiness Officer (N7)",
+                "text": "<p style=\"font-size:20px;\">NAVAL FORCES KOREA, Seoul, South Korea</p>(Concurrently with Fleet Activities Chinhae duties – see timeline below)<ul><li>Served on the global board of Regional Training Directors, formulating Navy training and readiness policy and strategy for all U.S. Navy sailors stationed in Korea. Personally prepared training curriculums for over 600 U.S. Navy active duty sailors and 14,000+ reserve support personnel serving in Korea.</li><li>Wrote the long-range (10+ years) Regional Training Instruction in accordance with the new training requirements published by Navy Installations Command.</li></ul>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2011",
+                "month": "4",
+                "day": "11"
+            },
+            "end_date": {
+                "year": "2012",
+                "month": "3",
+                "day": "31"
+            },
+            "display_date": "2011 — 2012",
+            "text": {
+                "headline": "Quality Information Systems Manager / Quality Engineer",
+                "text": "<p style=\"font-size:20px;\">POWER-ONE, Phoenix, AZ</p><ul><li>Used TSQL coding and relational database design tools to create data warehouses using 3 MySQL instances.</li><li>Used Pentaho Data-Integration for automated ETL jobs, data quality analysis, and to export multiple reports providing near-real-time access to metrics which previously required 80+ man hours per month to compile.</li><li>Designed and developed 5 global dashboards for quality monitoring and gap analysis. Empowered multiple departments to identify problem areas, create viable solutions, and monitor reliability.</li><li>Quality project manager for global projects in the development and implementation of the Agile PLM Product Quality Module as the company’s global Quality Management System and Best Practices tool. ($600K+ budget)</li><li>Responsible for Global Quality department SharePoint Administration. Created themes, workflows, lists, pages, and processes. Managed all permissions and created training materials for the global team of more than 60 quality professionals.</li></ul>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2012",
+                "month": "4",
+                "day": "1"
+            },
+            "end_date": {
+                "year": "2003",
+                "month": "3",
+                "day": "15"
+            },
+            "display_date": "2012 — 2015",
+            "text": {
+                "headline": "Customer Quality Engineer Manager / Global Renewable Energy Data Analyst",
+                "text": "<p style=\"font-size:20px;\">ABB (formerly POWER-ONE), Phoenix, AZ</p><ul><li>Created a warranty accrual model using information from all pertinent data sources to accurately predict 10+ years of field failures for over 2 million shipped products based upon historical failure rates. The model was a major contributor to the Power-One acquisition by ABB ($1B) with ≈1% variance from actual field failure rates. The accrual model also passed 3 external audits from both Deloitte and Ernst & Young with high praises.</li><li>Direct company interface for all customer quality issues. Led weekly meetings with senior quality leadership at 4 top-tier customers. Wrote and submitted over 100 customer Root Cause / Corrective Action reports.</li><li>Global Project Lead for the Early Warning System (EWS), a BI tool using over 60TB of mixed data to identify key problems in real time to resolve issues and provide automated customer, product, and regional analysis.</li><li>Created stored procedures to automate ETL, data quality, and performance tuning from multiple sources (Oracle, SalesForce, MySQL, factory test equipment…), which automatically populated quality reports (failure trends and pareto analysis) and distributed reporting via email and web-based dashboards to global teams.</li></ul>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2003",
+                "month": "5",
+                "day": "29"
+            },
+            "end_date": {
+                "year": "2004",
+                "month": "5",
+                "day": "28"
+            },
+            "display_date": "2003 — 2004",
+            "text": {
+                "headline": "Regimental Midshipman Information Systems Liasion Officer",
+                "text": "<p style=\"font-size:20px;\">U.S. Naval Academy, Annapolis, MD</p><ul><li>Responsible for all Information Technology related issues for over 850 midshipmen.</li><li>Designed and maintained the Regiment website and provided 2nd tier tech support.</li><li>Managed 5 company level Midshipmen Information Systems Liaison Officers in the performance of their duties.</li></ul>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2002",
+                "month": "5",
+                "day": "29"
+            },
+            "end_date": {
+                "year": "2003",
+                "month": "5",
+                "day": "28"
+            },
+            "display_date": "2002 — 2003",
+            "text": {
+                "headline": "Company Midshipman Information Systems Liasion Officer",
+                "text": "<p style=\"font-size:20px;\">U.S. Naval Academy, Annapolis, MD</p><ul><li>Responsible for all Information Technology related issues for over 140 midshipmen.</li><li>Designed and maintained the company website and provided 2nd tier tech support.</li></ul>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1999",
+                "month": "6",
+                "day": "16"
+            },
+            "end_date": {
+                "year": "2000",
+                "month": "6",
+                "day": "15"
+            },
+            "display_date": "1999 — 2000",
+            "text": {
+                "headline": "Assistant Workcenter Supervisor",
+                "text": "<p style=\"font-size:20px;\">USS NIMITZ (CVN-68)</p><ul><li>Managed 68 Sailors.  Was responsible for ensuring all maintenance tasks in a nuclear powered engine room were completed according to procedures.  Ran the engine room’s Quality Assurance program.</li><li>Was placed in charge of the Main Reduction Gears (valued in excess of $50M).</li></ul>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1997",
+                "month": "5",
+                "day": "28"
+            },
+            "end_date": {
+                "year": "1997",
+                "month": "9",
+                "day": "27"
+            },
+            "display_date": "1997",
+            "text": {
+                "headline": "Timberworker / Fire Fighter",
+                "text": "<p style=\"font-size:20px;\">Greyback Forestry, Merlin, OR</p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1996",
+                "month": "9",
+                "day": "1"
+            },
+            "end_date": {
+                "year": "1997",
+                "month": "5",
+                "day": "28"
+            },
+            "display_date": "1996 — 1997",
+            "text": {
+                "headline": "Student Intern",
+                "text": "<p style=\"font-size:20px;\">Bureau of Land Management, Medford, OR</p><p>I was the first high school selected bh the BLM as part of a work / study program.  My daily scheduled alternated between high school and working at the BLM.</p>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1995",
+                "month": "7",
+                "day": "30"
+            },
+            "end_date": {
+                "year": "1996",
+                "month": "8",
+                "day": "30"
+            },
+            "display_date": "1995 — 1996",
+            "text": {
+                "headline": "Sales Associate",
+                "text": "<p style=\"font-size:20px;\">Office Max, Medford, OR</p><ul><li>Youngest associate assigned to the Electronics section due to my aptitude with computers.</li></ul>"
+            }
         }
     ],
     "eras": [{
