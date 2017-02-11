@@ -36,24 +36,6 @@
                 "headline": "A Musical Heritage",
                 "text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
             }
-        },
-        {
-            "start_date": {
-                "year": "2010",
-                "month": "10",
-                "day": "01"
-            },
-            "end_date": {
-                "year": "2011",
-                "month": "04",
-                "day": "10"
-            },
-
-
-            "text": {
-                "headline": "President",
-                "text": "<p>Mattang LLC.</p>"
-            }
         }
     ]
 }
