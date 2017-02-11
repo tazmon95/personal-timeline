@@ -285,21 +285,6 @@
     ],
     "eras": [{
             "start_date": {
-                "year": "2010",
-                "month": "10",
-                "day": "1"
-            },
-            "end_date": {
-                "year": "2011",
-                "month": "4",
-                "day": "10"
-            },
-            "text": {
-                "headline": "Mattang"
-            }
-        },
-        {
-            "start_date": {
                 "year": "2011",
                 "month": "04",
                 "day": "11"
@@ -315,9 +300,24 @@
         },
         {
             "start_date": {
-                "year": "1997",
-                "month": "9",
-                "day": "27"
+                "year": "2010",
+                "month": "10",
+                "day": "1"
+            },
+            "end_date": {
+                "year": "2011",
+                "month": "4",
+                "day": "10"
+            },
+            "text": {
+                "headline": "Mattang"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2004",
+                "month": "5",
+                "day": "28"
             },
             "end_date": {
                 "year": "2010",
@@ -325,7 +325,37 @@
                 "day": "30"
             },
             "text": {
-                "headline": "U.S. Navy"
+                "headline": "Surface Warfare Officer, U.S. Navy"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2000",
+                "month": "7",
+                "day": "1"
+            },
+            "end_date": {
+                "year": "2004",
+                "month": "5",
+                "day": "27"
+            },
+            "text": {
+                "headline": "Midshipman, U.S. Naval Academy"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1997",
+                "month": "9",
+                "day": "27"
+            },
+            "end_date": {
+                "year": "2000",
+                "month": "6",
+                "day": "30"
+            },
+            "text": {
+                "headline": "Machinist Mate, U.S. Navy"
             }
         }
     ],
