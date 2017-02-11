@@ -39,19 +39,19 @@
         },
         {
             "start_date": {
-                "year": "",
-                "month": "",
-                "day": ""
+                "year": "2010",
+                "month": "10",
+                "day": "01"
             },
             "end_date": {
-                "year": "",
-                "month": "",
-                "day": ""
+                "year": "2011",
+                "month": "04",
+                "day": "10"
             },
-            "display_date": "",
+            "display_date": "2008 -- 2011",
             "text": {
-                "headline": "",
-                "text": ""
+                "headline": "President",
+                "text": "<p>Mattang LLC.</p>"
             }
         }
     ]
