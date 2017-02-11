@@ -22,6 +22,67 @@
                 "day": "10"
             },
             "text": {
+                "headline": "Business Process Improvement Manager, Solar Product Group, North America",
+                "text": "<p style=\"font-size:20px;\">ABB, Phoenix, AZ</p> <
+                    ul >
+                    <
+                    li > Created,
+                received global approval
+                for,
+                and led a pilot project utilizing Microsoft Power BI as a self - service decision making system.Successfully merged 8 departmental functions into a single automated dashboard. < /li> <
+                li > Automated the integration of SalesForce,
+                Oracle,
+                SAP,
+                and other enterprise data sources
+                for near - real - time reporting,
+                including alerts and predictive / prescriptive analytics
+                for business leaders. < /li> <
+                li > Proactively developed training materials and trained 50 + co - workers on Power BI,
+                PowerQuery,
+                and PowerPivot. < /li> <
+                li > Provided analytical support to 10 + developers who designed and built real - time apps which monitor production,
+                workforce allocation,
+                supplier compliance,
+                inventory,
+                financial services,
+                sales,
+                legal,
+                service,
+                and quality. < /li> <
+                li > SharePoint administrator and technical developer
+                for 23 corporate SharePoint sites. < /li> <
+                /ul>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2008",
+                "month": "10",
+                "day": "1"
+            },
+            "end_date": {
+                "year": "2010",
+                "month": "04",
+                "day": "10"
+            },
+            "text": {
+                "headline": "President",
+                "text": "Mattang LLC."
+            }
+        }
+    ],
+    "eras": [{
+            "start_date": {
+                "year": "2010",
+                "month": "10",
+                "day": "1"
+            },
+            "end_date": {
+                "year": "2011",
+                "month": "04",
+                "day": "10"
+            },
+            "text": {
                 "headline": "President",
                 "text": "Mattang LLC."
             }
