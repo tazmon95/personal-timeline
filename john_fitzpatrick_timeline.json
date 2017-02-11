@@ -5,7 +5,7 @@
           "text": "<p>Advanced Analytics Professional</p>"
         }
 	},
-	"events": {
+	"events": [
 	{
         "media": {
           "url": "{{ static_url }}/img/examples/houston/family.jpg",
@@ -22,24 +22,7 @@
           "text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
         }
       }
-	},
-	"eras": {
-		"start_date": {
-			  "month": "7",
-			  "day": "1",
-			  "year": "2008"
-			},
-		"end_date": {
-          "month": "4",
-          "day": "10",
-          "year": "2011"
-        },
-		"text": {
-			"headline": "Mattang LLC.",
-			"text": "A small business I founded.  We created tribal based artwork for T-Shirts."
-		}
-	},
-	"scale": {
-	
 	}
+	
+	]
 }
