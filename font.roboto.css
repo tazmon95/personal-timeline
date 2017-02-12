@@ -1,0 +1,133 @@
+@import url(//fonts.googleapis.com/css?family=Roboto+Slab:400,300);
+.tl-timeline,
+.tl-timeline .tl-caption,
+.tl-timeline .tl-credit,
+.tl-timeline .tl-media .tl-media-wikipedia h4 a,
+.tl-timeline .tl-media h4,
+.tl-timeline .tl-media h4 a,
+.tl-timeline .vcard,
+.tl-timeline h1,
+.tl-timeline h2,
+.tl-timeline h3,
+.tl-timeline h4,
+.tl-timeline h5,
+.tl-timeline h6,
+.tl-timeline p,
+.tl-timeline ul {
+    font-family: 'Roboto Condensed', sans-serif
+}
+.tl-timeline {
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 1.3em
+}
+.tl-timeline h1,
+.tl-timeline h2,
+.tl-timeline h3,
+.tl-timeline h4,
+.tl-timeline h5,
+.tl-timeline h6 {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px
+}
+.tl-timeline h2.tl-headline-title {
+    font-size: 58px;
+    line-height: 58px
+}
+.tl-timeline p {
+    font-size: 17px;
+    line-height: 1.3em
+}
+.tl-timeline .tl-media .tl-media-wikipedia h4 a,
+.tl-timeline .tl-media h4,
+.tl-timeline .tl-media h4 a {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px
+}
+.tl-timeline .vcard {
+    font-weight: 400!important
+}
+.tl-timeline .tl-message,
+.tl-timeline .tl-slidenav-next,
+.tl-timeline .tl-slidenav-previous,
+.tl-timeline .tl-timegroup-message {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 400;
+    text-transform: normal
+}
+.tl-timeline .tl-message .tl-slidenav-title,
+.tl-timeline .tl-slidenav-next .tl-slidenav-title,
+.tl-timeline .tl-slidenav-previous .tl-slidenav-title,
+.tl-timeline .tl-timegroup-message .tl-slidenav-title {
+    line-height: 1.3em!important;
+    text-transform: uppercase;
+}
+.tl-timeline .tl-headline-date,
+.tl-timeline h3.tl-headline-date {
+    font-family: 'Roboto Condensed', sans-serif!important;
+    font-weight: 400!important;
+    text-transform: normal!important
+}
+.tl-timeline .tl-headline-date small,
+.tl-timeline h3.tl-headline-date small {
+    font-weight: 400!important
+}
+.tl-timeline .tl-timenav-slider,
+.tl-timeline blockquote,
+.tl-timeline blockquote p,
+input[type=text].editor-headline {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 400
+}
+.tl-timeline .tl-timenav-slider .tl-timeaxis,
+.tl-timeline .tl-timenav-slider h2.tl-headline {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 400;
+    text-transform: normal
+}
+.tl-timeline .tl-menubar {
+    font-family: 'Roboto Condensed', sans-serif
+}
+.tl-timeline blockquote,
+.tl-timeline blockquote p {
+    font-style: normal;
+    line-height: 1.3
+}
+input[type=text].editor-headline {
+    font-size: 40px;
+    line-height: 40px
+}
+
+.tl-timenav .tl-attribution {
+    visibility: hidden!important;
+}
+
+.tl-timeera.tl-timeera-color0 .tl-timeera-background {
+    background-color: #eee
+}
+.tl-timeera.tl-timeera-color1 .tl-timeera-background {
+    background-color: #ddd
+}
+.tl-timeera.tl-timeera-color2 .tl-timeera-background {
+    background-color: #eee
+}
+.tl-timeera.tl-timeera-color3 .tl-timeera-background {
+    background-color: #ddd
+}
+.tl-timeera.tl-timeera-color4 .tl-timeera-background {
+    background-color: #eee
+}
+.tl-timeera.tl-timeera-color5 .tl-timeera-background {
+    background-color: #ddd
+}
+
+.tl-timeaxis .tl-timeaxis-content-container .tl-timeaxis-major .tl-timeaxis-tick:before {
+    font-size: 9px;
+    line-height: 9px;
+}
+
+.tl-timeera .tl-timeera-content-container .tl-timeera-content .tl-timeera-text h2.tl-headline {
+    color: #737373;
+}
