@@ -30,7 +30,7 @@
             "display_date": "2008 — 2011",
             "text": {
                 "headline": "President",
-                "text": "<p style=\"font-size:20px;\">Mattang LLC.</p><p>Developed Mattang from an idea my brother and I shared into a full business.  We had a board of directors of leaders throughout the Polynesian nation including: Maori chieftains, a Grammy award winning musician, royal hawaiians, professional surfers, tribal artists and record holding professional strongmen.</p><p>While building Mattang, we created our designs and started manufacturer of clothing in South Korea.  Unfortunately the manufacturer went bankrupt and we lost the investment made.  However upon separation from the U.S. Navy, we setup our own production warehouse and created our own product.</p>"
+                "text": "<p style=\"font-size:20px;\">MATTANG LLC.</p><p>Developed Mattang from an idea my brother and I shared into a full business.  We had a board of directors of leaders throughout the Polynesian nation including: Maori chieftains, a Grammy award winning musician, royal hawaiians, professional surfers, tribal artists and record holding professional strongmen.</p><p>While building Mattang, we created our designs and started manufacturer of clothing in South Korea.  Unfortunately the manufacturer went bankrupt and we lost the investment made.  However upon separation from the U.S. Navy, we setup our own production warehouse and created our own product.</p>"
             }
         },
         {
@@ -183,7 +183,7 @@
             "display_date": "2003 — 2004",
             "text": {
                 "headline": "Regimental Midshipman Information Systems Liasion Officer",
-                "text": "<p style=\"font-size:20px;\">U.S. Naval Academy, Annapolis, MD</p><ul><li>Responsible for all Information Technology related issues for over 850 midshipmen.</li><li>Designed and maintained the Regiment website and provided 2nd tier tech support.</li><li>Managed 5 company level Midshipmen Information Systems Liaison Officers in the performance of their duties.</li></ul>"
+                "text": "<p style=\"font-size:20px;\">U.S. NAVAL ACADEMY, Annapolis, MD</p><ul><li>Responsible for all Information Technology related issues for over 850 midshipmen.</li><li>Designed and maintained the Regiment website and provided 2nd tier tech support.</li><li>Managed 5 company level Midshipmen Information Systems Liaison Officers in the performance of their duties.</li></ul>"
             }
         },
         {
@@ -200,7 +200,7 @@
             "display_date": "2002 — 2003",
             "text": {
                 "headline": "Company Midshipman Information Systems Liasion Officer",
-                "text": "<p style=\"font-size:20px;\">U.S. Naval Academy, Annapolis, MD</p><ul><li>Responsible for all Information Technology related issues for over 140 midshipmen.</li><li>Designed and maintained the company website and provided 2nd tier tech support.</li></ul>"
+                "text": "<p style=\"font-size:20px;\">U.S. NAVAL ACADEMY, Annapolis, MD</p><ul><li>Responsible for all Information Technology related issues for over 140 midshipmen.</li><li>Designed and maintained the company website and provided 2nd tier tech support.</li></ul>"
             }
         },
         {
@@ -234,7 +234,7 @@
             "display_date": "1997",
             "text": {
                 "headline": "Timberworker / Fire Fighter",
-                "text": "<p style=\"font-size:20px;\">Greyback Forestry, Merlin, OR</p><p>I spent the summer after highschool working in the Southern Oregon forests clearning areas to prevent wildfires.</p><p>I also trained as a firefighter with the best private forest fire fighting team in the world.</p>"
+                "text": "<p style=\"font-size:20px;\">GREYBACK FORESTRY, Merlin, OR</p><p>I spent the summer after highschool working in the Southern Oregon forests clearning areas to prevent wildfires.</p><p>I also trained as a firefighter with the best private forest fire fighting team in the world.</p>"
             }
         },
         {
@@ -251,7 +251,7 @@
             "display_date": "1996 — 1997",
             "text": {
                 "headline": "Student Intern",
-                "text": "<p style=\"font-size:20px;\">Bureau of Land Management, Medford, OR</p><p>I was the first high school selected bh the BLM as part of a work / study program.  My daily scheduled alternated between high school and working at the BLM.</p>"
+                "text": "<p style=\"font-size:20px;\">BUREAU OF LAND MANAGEMENT, Medford, OR</p><p>I was the first high school selected bh the BLM as part of a work / study program.  My daily scheduled alternated between high school and working at the BLM.</p>"
             }
         },
         {
@@ -268,7 +268,24 @@
             "display_date": "1995 — 1996",
             "text": {
                 "headline": "Sales Associate",
-                "text": "<p style=\"font-size:20px;\">Office Max, Medford, OR</p><ul><li>Youngest associate assigned to the Electronics section due to my aptitude with computers.</li><li>Led the store for electronics department sales.</li></ul>"
+                "text": "<p style=\"font-size:20px;\">OFFICE MAX, Medford, OR</p><ul><li>Youngest associate assigned to the Electronics section due to my aptitude with computers.</li><li>Led the store for electronics department sales.</li></ul>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1995",
+                "month": "6",
+                "day": "1"
+            },
+            "end_date": {
+                "year": "1995",
+                "month": "9",
+                "day": "30"
+            },
+            "display_date": "1995",
+            "text": {
+                "headline": "Expediter",
+                "text": "<p style=\"font-size:20px;\">BEAVER LECTRONICS, White City, OR</p><p>Beaver Lectronics was a small contract manufacturing company specializing in PCB and wiring harness manufacture</p><ul><li>Responsible for the timely delivery of materials throughout the 5 warehouse manufacturing complex.</li><li>Worked as a \" pick n place\" machine operator placing components on PCBs when all material routing was complete.</li></ul>"
             }
         }
     ],
