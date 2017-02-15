@@ -234,7 +234,7 @@
             "display_date": "1997",
             "text": {
                 "headline": "Woodland Fire Fighter / Timberworker",
-                "text": "<p style=\"font-size:20px;\">GREYBACK FORESTRY, INC., Merlin, OR</p><ul><li>Spent the summer after highschool working in the Oregon forests conducting fuel reduction work to prevent catastrophic fires.</li><li>Trained as a fire fighter with the best private forest fire fighting team in the world.</li></ul><p><small>* There were no forest fires on the west coast in the summer of 1997.</small></p>"
+                "text": "<p style=\"font-size:20px;\">GREYBACK FORESTRY, INC., Merlin, OR</p><ul><li>Spent the summer after highschool working in the Oregon forests conducting fuel reduction work to prevent catastrophic fires.</li><li>Trained as a fire fighter with the best private forest fire fighting team in the world.</li></ul><p><small><em>There were no forest fires on the west coast in the summer of 1997.</em></small></p>"
             }
         },
         {
@@ -251,7 +251,7 @@
             "display_date": "1996 — 1997",
             "text": {
                 "headline": "Student Intern",
-                "text": "<p style=\"font-size:20px;\">BUREAU OF LAND MANAGEMENT, Medford, OR</p><p>I was the first high school selected bh the BLM as part of a work / study program.  My daily scheduled alternated between high school and working at the BLM.</p><ul><li>Designed a custom made gate for a bat hibernation cave.</li><li>Conducted wide area population surveys for the endangered Spotted Owl.</li><li>Performed logging area inspections to verify logging companies on cut selected trees.</li></ul>"
+                "text": "<p style=\"font-size:20px;\">BUREAU OF LAND MANAGEMENT, Medford, OR</p><p>First high school selected by the <abbr title=\"Bureau of Land Management\">BLM</abbr> as part of a work / study program.  My daily scheduled alternated between high school and field work with the <abbr title=\"Bureau of Land Management\">BLM</abbr>.</p><ul><li>Designed a custom made gate using AutoCAD for a bat hibernation cave.</li><li>Conducted wide area population surveys for the endangered Spotted Owl.</li><li>Performed logging work area inspections to verify timber companies only cut approved trees.</li></ul>"
             }
         },
         {
