@@ -18,6 +18,40 @@
         },
         {
             "start_date": {
+                "year": "2012",
+                "month": "4",
+                "day": "1"
+            },
+            "end_date": {
+                "year": "2015",
+                "month": "3",
+                "day": "15"
+            },
+            "display_date": "2012 — 2015",
+            "text": {
+                "headline": "Customer Quality Engineer Manager / Global Renewable Energy Data Analyst",
+                "text": "<p style=\"font-size:20px;\">ABB (formerly POWER-ONE), Phoenix, AZ</p><ul><li>Created a warranty accrual model using information from all pertinent data sources to accurately predict 10+ years of field failures for over 2 million shipped products based upon historical failure rates. The model was a major contributor to the Power-One acquisition by ABB ($1B) with ≈1% variance from actual field failure rates. The accrual model also passed 3 external audits from both Deloitte and Ernst & Young with high praises.</li><li>Direct company interface for all customer quality issues. Led weekly meetings with senior quality leadership at 4 top-tier customers. Wrote and submitted over 100 customer Root Cause / Corrective Action reports.</li><li>Global Project Lead for the Early Warning System (EWS), a BI tool using over 60TB of mixed data to identify key problems in real time to resolve issues and provide automated customer, product, and regional analysis.</li><li>Created stored procedures to automate ETL, data quality, and performance tuning from multiple sources (Oracle, SalesForce, MySQL, factory test equipment…), which automatically populated quality reports (failure trends and pareto analysis) and distributed reporting via email and web-based dashboards to global teams.</li></ul>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2011",
+                "month": "4",
+                "day": "11"
+            },
+            "end_date": {
+                "year": "2012",
+                "month": "3",
+                "day": "31"
+            },
+            "display_date": "2011 — 2012",
+            "text": {
+                "headline": "Quality Information Systems Manager / Quality Engineer",
+                "text": "<p style=\"font-size:20px;\">POWER-ONE, Phoenix, AZ</p><ul><li>Used TSQL coding and relational database design tools to create data warehouses using 3 MySQL instances.</li><li>Used Pentaho Data-Integration for automated ETL jobs, data quality analysis, and to export multiple reports providing near-real-time access to metrics which previously required 80+ man hours per month to compile.</li><li>Designed and developed 5 global dashboards for quality monitoring and gap analysis. Empowered multiple departments to identify problem areas, create viable solutions, and monitor reliability.</li><li>Quality project manager for global projects in the development and implementation of the Agile PLM Product Quality Module as the company’s global Quality Management System and Best Practices tool. ($600K+ budget)</li><li>Responsible for Global Quality department SharePoint Administration. Created themes, workflows, lists, pages, and processes. Managed all permissions and created training materials for the global team of more than 60 quality professionals.</li></ul>"
+            }
+        },
+        {
+            "start_date": {
                 "year": "2008",
                 "month": "10",
                 "day": "1"
@@ -31,74 +65,6 @@
             "text": {
                 "headline": "President",
                 "text": "<p style=\"font-size:20px;\">MATTANG LLC.</p><p>Developed Mattang from an idea my brother and I shared into a full retail clothing business.  We had a Board of Directors consisting of leaders located throughout the Polynesian nation including: Maori chieftains, a Grammy-award-winning musician, Royal Hawaiians, professional surfers, tribal artists, and record-holding professional strongmen.</p><p>While building Mattang, we created our designs and began manufacturing our clothing line in South Korea.  Unfortunately, the manufacturer went bankrupt and we lost our entire investment.</p>"
-            }
-        },
-        {
-            "start_date": {
-                "year": "2004",
-                "month": "5",
-                "day": "29"
-            },
-            "end_date": {
-                "year": "2005",
-                "month": "3",
-                "day": "30"
-            },
-            "display_date": "2004 — 2005",
-            "text": {
-                "headline": "Webmaster Assistant and Information Technology Support",
-                "text": "<p style=\"font-size:20px;\">U.S. NAVAL ACADEMY, Annapolis, MD</p><ul><li>Led the merger of over 280 web servers into a single combined system in order to bring the U.S. Naval Academy web presence into alignment with Department of Defense information security and visual design policies.</li><li>Developed and managed a database system using MySQL to track midshipman attendance at all summer training activities.</li><li>Designed and maintained both the internal and external websites for all summer training events. This allowed midshipman parents and relatives to securely follow training events throughout the summer, and also allowed U.S. Naval Academy personnel to easily submit pictures or other information about the incoming class members.</li></ul>"
-            }
-        },
-        {
-            "start_date": {
-                "year": "2005",
-                "month": "4",
-                "day": "1"
-            },
-            "end_date": {
-                "year": "2006",
-                "month": "1",
-                "day": "15"
-            },
-            "display_date": "2005 — 2006",
-            "text": {
-                "headline": "First Lieutenant",
-                "text": "<p style=\"font-size:20px;\">USS CURTIS WILBUR (DDG-54), Yokosuka, Japan</p><ul><li>Supervised and motivated 46 sailors in their performance of seamanship functions and evolutions in a dynamic environment.</li><li>Prepared work schedules and directed several shipboard operations, including: mooring, docking, anchoring, fueling, towing, and transferring of personnel and cargo at sea.</li><li>Designed and maintained the ship's public website.</li></ul>"
-            }
-        },
-        {
-            "start_date": {
-                "year": "2006",
-                "month": "1",
-                "day": "16"
-            },
-            "end_date": {
-                "year": "2007",
-                "month": "1",
-                "day": "23"
-            },
-            "display_date": "2006 — 2007",
-            "text": {
-                "headline": "Public Affairs Officer",
-                "text": "<p style=\"font-size:20px;\">U.S. NAVAL SHIP REPAIR FACILITY / JAPAN REGIONAL MAINTENANCE CENTER, Yokosuka, Japan</p><ul><li>United a multi-national team and developed an 88-item checklist based upon 14 regulations that the U.S. Government, Department of Defense, and U.S. Navy issued regarding publicly accessible websites.</li><li>Re-coded the Command website to ensure 100% compliance with all applicable regulations.</li><li>Created and published a weekly news story for the local newspaper highlighting different comman departments or events.</li><li>Scripted, filmed, produced and edited a weekly news story for the local TV station.</li></ul><span class=\"tl-note\"><a href=\"https://i1.wp.com/johncfitzpatrick.com/wp-content/uploads/2017/01/NAM.jpg\" class=\"img-hyperlink\" data-featherlight=\"image\">Navy Achievement Medal</a></span>"
-            }
-        },
-        {
-            "start_date": {
-                "year": "2007",
-                "month": "02",
-                "day": "10"
-            },
-            "end_date": {
-                "year": "2009",
-                "month": "7",
-                "day": "30"
-            },
-            "display_date": "2007 — 2009",
-            "text": {
-                "headline": "Operations Officer",
-                "text": "<p style=\"font-size:20px;\">FLEET ACTIVITIES CHINHAE, Chinhae, South Korea</p><ul><li>Planned operational exercises and responses to various wartime scenarios, and led the Command response in 8 Tier I Joint / Combined Exercises, ensuring effective mission capability for the U.S. Navy in South Korea.</li><li>Requested funding ($8M+), helped design, and oversaw set-up of a new Regional Maritime Operations Center.</li><li>Designed and maintained the commands public facing website.</li></ul><span class=\"tl-note\"><a href=\"https://i0.wp.com/johncfitzpatrick.com/wp-content/uploads/2017/01/NCM.jpg?ssl=1\" class=\"img-hyperlink\" data-featherlight=\"image\">Navy Commendation Medal</a></span>"
             }
         },
         {
@@ -137,36 +103,70 @@
         },
         {
             "start_date": {
-                "year": "2011",
-                "month": "4",
-                "day": "11"
+                "year": "2007",
+                "month": "02",
+                "day": "10"
             },
             "end_date": {
-                "year": "2012",
-                "month": "3",
-                "day": "31"
+                "year": "2009",
+                "month": "7",
+                "day": "30"
             },
-            "display_date": "2011 — 2012",
+            "display_date": "2007 — 2009",
             "text": {
-                "headline": "Quality Information Systems Manager / Quality Engineer",
-                "text": "<p style=\"font-size:20px;\">POWER-ONE, Phoenix, AZ</p><ul><li>Used TSQL coding and relational database design tools to create data warehouses using 3 MySQL instances.</li><li>Used Pentaho Data-Integration for automated ETL jobs, data quality analysis, and to export multiple reports providing near-real-time access to metrics which previously required 80+ man hours per month to compile.</li><li>Designed and developed 5 global dashboards for quality monitoring and gap analysis. Empowered multiple departments to identify problem areas, create viable solutions, and monitor reliability.</li><li>Quality project manager for global projects in the development and implementation of the Agile PLM Product Quality Module as the company’s global Quality Management System and Best Practices tool. ($600K+ budget)</li><li>Responsible for Global Quality department SharePoint Administration. Created themes, workflows, lists, pages, and processes. Managed all permissions and created training materials for the global team of more than 60 quality professionals.</li></ul>"
+                "headline": "Operations Officer",
+                "text": "<p style=\"font-size:20px;\">FLEET ACTIVITIES CHINHAE, Chinhae, South Korea</p><ul><li>Planned operational exercises and responses to various wartime scenarios, and led the Command response in 8 Tier I Joint / Combined Exercises, ensuring effective mission capability for the U.S. Navy in South Korea.</li><li>Requested funding ($8M+), helped design, and oversaw set-up of a new Regional Maritime Operations Center.</li><li>Designed and maintained the commands public facing website.</li></ul><span class=\"tl-note\"><a href=\"https://i0.wp.com/johncfitzpatrick.com/wp-content/uploads/2017/01/NCM.jpg?ssl=1\" class=\"img-hyperlink\" data-featherlight=\"image\">Navy Commendation Medal</a></span>"
             }
         },
         {
             "start_date": {
-                "year": "2012",
+                "year": "2006",
+                "month": "1",
+                "day": "16"
+            },
+            "end_date": {
+                "year": "2007",
+                "month": "1",
+                "day": "23"
+            },
+            "display_date": "2006 — 2007",
+            "text": {
+                "headline": "Public Affairs Officer",
+                "text": "<p style=\"font-size:20px;\">U.S. NAVAL SHIP REPAIR FACILITY / JAPAN REGIONAL MAINTENANCE CENTER, Yokosuka, Japan</p><ul><li>United a multi-national team and developed an 88-item checklist based upon 14 regulations that the U.S. Government, Department of Defense, and U.S. Navy issued regarding publicly accessible websites.</li><li>Re-coded the Command website to ensure 100% compliance with all applicable regulations.</li><li>Created and published a weekly news story for the local newspaper highlighting different comman departments or events.</li><li>Scripted, filmed, produced and edited a weekly news story for the local TV station.</li></ul><span class=\"tl-note\"><a href=\"https://i1.wp.com/johncfitzpatrick.com/wp-content/uploads/2017/01/NAM.jpg\" class=\"img-hyperlink\" data-featherlight=\"image\">Navy Achievement Medal</a></span>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2005",
                 "month": "4",
                 "day": "1"
             },
             "end_date": {
-                "year": "2015",
-                "month": "3",
+                "year": "2006",
+                "month": "1",
                 "day": "15"
             },
-            "display_date": "2012 — 2015",
+            "display_date": "2005 — 2006",
             "text": {
-                "headline": "Customer Quality Engineer Manager / Global Renewable Energy Data Analyst",
-                "text": "<p style=\"font-size:20px;\">ABB (formerly POWER-ONE), Phoenix, AZ</p><ul><li>Created a warranty accrual model using information from all pertinent data sources to accurately predict 10+ years of field failures for over 2 million shipped products based upon historical failure rates. The model was a major contributor to the Power-One acquisition by ABB ($1B) with ≈1% variance from actual field failure rates. The accrual model also passed 3 external audits from both Deloitte and Ernst & Young with high praises.</li><li>Direct company interface for all customer quality issues. Led weekly meetings with senior quality leadership at 4 top-tier customers. Wrote and submitted over 100 customer Root Cause / Corrective Action reports.</li><li>Global Project Lead for the Early Warning System (EWS), a BI tool using over 60TB of mixed data to identify key problems in real time to resolve issues and provide automated customer, product, and regional analysis.</li><li>Created stored procedures to automate ETL, data quality, and performance tuning from multiple sources (Oracle, SalesForce, MySQL, factory test equipment…), which automatically populated quality reports (failure trends and pareto analysis) and distributed reporting via email and web-based dashboards to global teams.</li></ul>"
+                "headline": "First Lieutenant",
+                "text": "<p style=\"font-size:20px;\">USS CURTIS WILBUR (DDG-54), Yokosuka, Japan</p><ul><li>Supervised and motivated 46 sailors in their performance of seamanship functions and evolutions in a dynamic environment.</li><li>Prepared work schedules and directed several shipboard operations, including: mooring, docking, anchoring, fueling, towing, and transferring of personnel and cargo at sea.</li><li>Designed and maintained the ship's public website.</li></ul>"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2004",
+                "month": "5",
+                "day": "29"
+            },
+            "end_date": {
+                "year": "2005",
+                "month": "3",
+                "day": "30"
+            },
+            "display_date": "2004 — 2005",
+            "text": {
+                "headline": "Webmaster Assistant and Information Technology Support",
+                "text": "<p style=\"font-size:20px;\">U.S. NAVAL ACADEMY, Annapolis, MD</p><ul><li>Led the merger of over 280 web servers into a single combined system in order to bring the U.S. Naval Academy web presence into alignment with Department of Defense information security and visual design policies.</li><li>Developed and managed a database system using MySQL to track midshipman attendance at all summer training activities.</li><li>Designed and maintained both the internal and external websites for all summer training events. This allowed midshipman parents and relatives to securely follow training events throughout the summer, and also allowed U.S. Naval Academy personnel to easily submit pictures or other information about the incoming class members.</li></ul>"
             }
         },
         {
