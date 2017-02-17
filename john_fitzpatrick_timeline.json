@@ -361,7 +361,22 @@
                 "day": "30"
             },
             "text": {
-                "headline": "Machinist Mate, U.S. Navy"
+                "headline": "Nuclear Machinist Mate, U.S. Navy"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1993",
+                "month": "9",
+                "day": "01"
+            },
+            "end_date": {
+                "year": "1997",
+                "month": "6",
+                "day": "2"
+            },
+            "text": {
+                "headline": "High School Student"
             }
         }
     ],
