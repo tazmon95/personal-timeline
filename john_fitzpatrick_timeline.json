@@ -30,7 +30,7 @@
             "display_date": "2012 — 2015",
             "text": {
                 "headline": "Customer Quality Engineer Manager / Global Renewable Energy Data Analyst",
-                "text": "<p style=\"font-size:20px;\">ABB (formerly POWER-ONE), Phoenix, AZ</p><ul><li>Created a warranty accrual model using information from all pertinent data sources to accurately predict 10+ years of field failures for over 2 million shipped products based upon historical failure rates. The model was a major contributor to the Power-One acquisition by ABB ($1B) with ≈1% variance from actual field failure rates. The accrual model also passed 3 external audits from both Deloitte and Ernst & Young with high praises.</li><li>Direct company interface for all customer quality issues. Led weekly meetings with senior quality leadership at 4 top-tier customers. Wrote and submitted over 100 customer Root Cause / Corrective Action reports.</li><li>Global Project Lead for the Early Warning System (EWS), a BI tool using over 60TB of mixed data to identify key problems in real time to resolve issues and provide automated customer, product, and regional analysis.</li><li>Created stored procedures to automate ETL, data quality, and performance tuning from multiple sources (Oracle, SalesForce, MySQL, factory test equipment…), which automatically populated quality reports (failure trends and pareto analysis) and distributed reporting via email and web-based dashboards to global teams.</li><li>Developed an enterprise-class, real-time solar site monitoring solution using MongoDB, MySQL and Excel spark charts to visually track 186, 1.5MW inverters daily power production curves and track any faults.  The customer preferred using this tool vs. the software thay paid more than $10M for.  Compressed data set was more than 40Gb.</li></ul>"
+                "text": "<p style=\"font-size:20px;\">ABB (formerly POWER-ONE), Phoenix, AZ</p><ul><li>Created a warranty accrual model using information from all pertinent data sources to accurately predict 10+ years of field failures for over 2 million shipped products based upon historical failure rates. The model was a major contributor to the Power-One acquisition by ABB ($1B) with ≈1% variance from actual field failure rates. The accrual model also passed 3 external audits from both Deloitte and Ernst & Young with high praises.</li><li>Direct company interface for all customer quality issues. Led weekly meetings with senior quality leadership at 4 top-tier customers. Wrote and submitted over 100 customer Root Cause / Corrective Action reports.</li><li>Global Project Lead for the Early Warning System (EWS), a BI tool using over 60TB of mixed data to identify key problems in real time to resolve issues and provide automated customer, product, and regional analysis.</li><li>Created stored procedures to automate ETL, data quality, and performance tuning from multiple sources (Oracle, SalesForce, MySQL, factory test equipment…), which automatically populated quality reports (failure trends and pareto analysis) and distributed reporting via email and web-based dashboards to global teams.</li><li>Developed a utility-class, real-time solar site-monitoring solution using MongoDB, MySQL and Excel spark charts in order to visually track daily power production curves for one hundred eighty-six 1.5MW inverters and to identify any faults.  The customer preferred using this tool instead of the software which had cost them more than $10M.  So much value was placed on this tool that ABB created a position to monitor the results on a full-time basis.  The final compressed data set was larger than 40GB.</li></ul>"
             }
         },
         {
@@ -64,7 +64,7 @@
             "display_date": "2008 — 2011",
             "text": {
                 "headline": "President",
-                "text": "<p style=\"font-size:20px;\">MATTANG LLC.</p><p>Developed Mattang from an idea my brother and I shared into a full retail clothing business.  We had a Board of Directors consisting of leaders located throughout the Polynesian nation including: Maori chieftains, a Grammy-award-winning musician, Royal Hawaiians, professional surfers, tribal artists, and record-holding professional strongmen.</p><p>While building Mattang, we created our designs and began manufacturing our clothing line in South Korea.  Unfortunately, the manufacturer went bankrupt and we lost our entire investment.</p>"
+                "text": "<p style=\"font-size:20px;\">MATTANG LLC.</p><p>Developed Mattang from an idea my brother and I shared into a full retail clothing business.  We had a Board of Directors consisting of leaders located throughout the Polynesian nation, including: Maori chieftains, a Grammy-award-winning musician, Royal Hawaiians, professional surfers, tribal artists, and record-holding professional strongmen.</p><p>While building Mattang, we created our designs and began manufacturing our clothing line in South Korea.  Unfortunately, the manufacturer went bankrupt and we lost our entire investment.</p>"
             }
         },
         {
@@ -115,7 +115,7 @@
             "display_date": "2007 — 2009",
             "text": {
                 "headline": "Operations Officer",
-                "text": "<p style=\"font-size:20px;\">FLEET ACTIVITIES CHINHAE, Chinhae, South Korea</p><ul><li>Planned operational exercises and responses to various wartime scenarios, and led the Command response in 8 Tier I Joint / Combined Exercises, ensuring effective mission capability for the U.S. Navy in South Korea.</li><li>Requested funding ($8M+), helped design, and oversaw set-up of a new Regional Maritime Operations Center.</li><li>Designed and maintained the commands public facing website.</li></ul><span class=\"tl-note\"><a href=\"https://i0.wp.com/johncfitzpatrick.com/wp-content/uploads/2017/01/NCM.jpg?ssl=1\" class=\"img-hyperlink\" data-featherlight=\"image\">Navy Commendation Medal</a></span>"
+                "text": "<p style=\"font-size:20px;\">FLEET ACTIVITIES CHINHAE, Chinhae, South Korea</p><ul><li>Planned operational exercises and responses to various wartime scenarios, and led the Command response in 8 Tier I Joint / Combined Exercises, ensuring effective mission capability for the U.S. Navy in South Korea.</li><li>Requested funding ($8M+), helped design, and oversaw set-up of a new Regional Maritime Operations Center.</li><li>Designed and maintained the Command's website.</li></ul><span class=\"tl-note\"><a href=\"https://i0.wp.com/johncfitzpatrick.com/wp-content/uploads/2017/01/NCM.jpg?ssl=1\" class=\"img-hyperlink\" data-featherlight=\"image\">Navy Commendation Medal</a></span>"
             }
         },
         {
@@ -132,7 +132,7 @@
             "display_date": "2006 — 2007",
             "text": {
                 "headline": "Public Affairs Officer",
-                "text": "<p style=\"font-size:20px;\">U.S. NAVAL SHIP REPAIR FACILITY / JAPAN REGIONAL MAINTENANCE CENTER, Yokosuka, Japan</p><ul><li>United a multi-national team and developed an 88-item checklist based upon 14 regulations that the U.S. Government, Department of Defense, and U.S. Navy issued regarding publicly accessible websites.</li><li>Re-coded the Command website to ensure 100% compliance with all applicable regulations.</li><li>Created and published a weekly news story for the local newspaper highlighting different comman departments or events.</li><li>Scripted, filmed, produced and edited a weekly news story for the local TV station.</li></ul><span class=\"tl-note\"><a href=\"https://i1.wp.com/johncfitzpatrick.com/wp-content/uploads/2017/01/NAM.jpg\" class=\"img-hyperlink\" data-featherlight=\"image\">Navy Achievement Medal</a></span>"
+                "text": "<p style=\"font-size:20px;\">U.S. NAVAL SHIP REPAIR FACILITY / JAPAN REGIONAL MAINTENANCE CENTER, Yokosuka, Japan</p><ul><li>United a multi-national team and developed an 88-item checklist based upon 14 regulations that the U.S. Government, Department of Defense, and U.S. Navy issued regarding publicly accessible websites.</li><li>Re-coded the Command website to ensure 100% compliance with all applicable regulations.</li><li>Created and published a weekly news story for the local newspaper highlighting different Command departments or events.</li><li>Scripted, filmed, produced, and edited a weekly news story for the local TV station.</li></ul><span class=\"tl-note\"><a href=\"https://i1.wp.com/johncfitzpatrick.com/wp-content/uploads/2017/01/NAM.jpg\" class=\"img-hyperlink\" data-featherlight=\"image\">Navy Achievement Medal</a></span>"
             }
         },
         {
@@ -182,8 +182,8 @@
             },
             "display_date": "2003 — 2004",
             "text": {
-                "headline": "Regimental Midshipman Information Systems Liasion Officer (MISLO)",
-                "text": "<p style=\"font-size:20px;\">U.S. NAVAL ACADEMY, Annapolis, MD</p><ul><li>Responsible for all Information Technology related issues for over 850 midshipmen.</li><li>Designed and maintained the Regiment website.</li><li>Provided 2nd tier IT support to all Regiment midshipmen.</li><li>Managed 5 Company-level <abbr title=\"Midshipman Information Systems Liaison Officers\">MISLO</abbr>s in the performance of their duties.</li><li>Primary editor for Brigade level website due to web development expertise.</li></ul>"
+                "headline": "Regimental Midshipman Information Systems Liasion Officer",
+                "text": "<p style=\"font-size:20px;\">U.S. NAVAL ACADEMY, Annapolis, MD</p><ul><li>Responsible for all Information Technology related issues for over 850 midshipmen.</li><li>Designed and maintained the Regiment website.</li><li>Provided 2nd-tier IT support to all Regiment midshipmen.</li><li>Managed 5 Company-level <abbr title=\"Midshipman Information Systems Liaison Officers\">MISLO</abbr>s in the performance of their duties.</li><li>Primary editor for Brigade level website due to web development expertise.</li></ul>"
             }
         },
         {
@@ -199,8 +199,8 @@
             },
             "display_date": "2002 — 2003",
             "text": {
-                "headline": "Company Midshipman Information Systems Liasion Officer (MISLO)",
-                "text": "<p style=\"font-size:20px;\">U.S. NAVAL ACADEMY, Annapolis, MD</p><ul><li>Responsible for all Information Technology related issues for over 140 midshipmen.</li><li>Designed and maintained the Company website.</li><li>Provided 3nd tier IT support to all Company midshipmen.</li></ul>"
+                "headline": "Company Midshipman Information Systems Liasion Officer",
+                "text": "<p style=\"font-size:20px;\">U.S. NAVAL ACADEMY, Annapolis, MD</p><ul><li>Responsible for all Information Technology related issues for over 140 midshipmen.</li><li>Designed and maintained the Company website.</li><li>Provided 3rd-tier IT support to all Company midshipmen.</li></ul>"
             }
         },
         {
@@ -217,7 +217,7 @@
             "display_date": "1999 — 2000",
             "text": {
                 "headline": "Assistant Workcenter Supervisor",
-                "text": "<p style=\"font-size:20px;\">USS NIMITZ (CVN-68)</p><ul><li>Managed 68 Sailors in the performance of their duties.  Responsible for ensuring that all maintenance tasks in the ship's nuclear powered engine room were completed according to procedures.  Ran the engine room’s Quality Assurance program.</li><li>Placed in charge of the ship's Main Reduction Gears (valued in excess of $50M).</li><li>Nominated and recommended for acceptance to the U.S. Naval Academy by the ship's Commanding Officer.</li><li>Secret Clearance.</li></ul>"
+                "text": "<p style=\"font-size:20px;\">USS NIMITZ (CVN-68)</p><ul><li>Managed 68 sailors in the performance of their duties.  Responsible for ensuring that all maintenance tasks in the ship's nuclear-powered engine room were completed according to procedures.  Ran the engine room’s Quality Assurance program.</li><li>Placed in charge of the ship's Main Reduction Gears (valued in excess of $50M).</li><li>Nominated and recommended for acceptance to the U.S. Naval Academy by the ship's Commanding Officer.</li><li>Secret Clearance.</li></ul>"
             }
         },
         {
@@ -234,7 +234,7 @@
             "display_date": "1997",
             "text": {
                 "headline": "Woodland Firefighter / Timberworker",
-                "text": "<p style=\"font-size:20px;\">GREYBACK FORESTRY, INC., Merlin, OR</p><ul><li>Spent the summer after high school working in the Oregon forests, conducting fuel-reduction work in order to prevent out of control wildfires.</li><li>Trained as a firefighter with one of the best private forest fire fighting teams in the world.</li></ul><p><small>(<em>NOTE: There were no forest fires on the west coast in the summer of 1997.</em>)</small></p>"
+                "text": "<p style=\"font-size:20px;\">GREYBACK FORESTRY, INC., Merlin, OR</p><ul><li>Spent the summer after high school working in the Oregon forests, conducting fuel-reduction work in order to prevent out-of-control wildfires.</li><li>Trained as a firefighter with one of the best private forest-fire-fighting teams in the world.</li></ul><p><small>(<em>NOTE: There were no forest fires on the west coast in the summer of 1997.</em>)</small></p>"
             }
         },
         {
@@ -251,7 +251,7 @@
             "display_date": "1996 — 1997",
             "text": {
                 "headline": "Student Intern",
-                "text": "<p style=\"font-size:20px;\">BUREAU OF LAND MANAGEMENT (BLM), Medford, OR</p><p>First high school student selected by the <abbr title=\"Bureau of Land Management\">BLM</abbr> as part of a work / study program.  My daily schedule alternated between high school and field work with the <abbr title=\"Bureau of Land Management\">BLM</abbr>.</p><ul><li>Designed a custom-made gate using AutoCAD for a bat hibernation cave.</li><li>Conducted wide area population surveys for the endangered Spotted Owl.</li><li>Performed logging work area inspections to verify that timber companies only cut approved trees.</li></ul>"
+                "text": "<p style=\"font-size:20px;\">BUREAU OF LAND MANAGEMENT (BLM), Medford, OR</p><p>First high school student selected by the <abbr title=\"Bureau of Land Management\">BLM</abbr> as part of a work / study program.  Daily schedule alternated between high school and field work with the <abbr title=\"Bureau of Land Management\">BLM</abbr>.</p><ul><li>Designed a custom-made gate for a bat hibernation cave using AutoCAD.</li><li>Conducted wide area population surveys for the endangered Spotted Owl.</li><li>Performed logging work area inspections to verify that timber companies only cut approved trees.</li></ul>"
             }
         },
         {
@@ -268,7 +268,7 @@
             "display_date": "1995 — 1996",
             "text": {
                 "headline": "Sales Associate",
-                "text": "<p style=\"font-size:20px;\">OFFICE MAX, Medford, OR</p><ul><li>Youngest associate assigned to the Electronics section, due to my aptitude with computers.</li><li>Led the store for Electronics Department sales.</li></ul>"
+                "text": "<p style=\"font-size:20px;\">OFFICE MAX, Medford, OR</p><ul><li>Youngest associate assigned to the Electronics section, due to aptitude with computers.</li><li>Led the store for Electronics Department sales.</li></ul>"
             }
         },
         {
@@ -285,7 +285,7 @@
             "display_date": "1995",
             "text": {
                 "headline": "Expediter",
-                "text": "<p style=\"font-size:20px;\">BEAVER LECTRONICS, White City, OR</p><p>Beaver Lectronics was a small contract manufacturing company specializing in Printed Circuit Board (<abbr title=\"Printed Circuit Board\">PCB</abbr>) and wiring harness manufacturer.</p><ul><li>Responsible for the timely delivery of materials throughout the 5-warehouse manufacturing complex.</li><li>Worked as a \" pick-n-place\" machine operator placing components on <abbr title=\"Printed Circuit Board\">PCB</abbr>s when all material routing was complete.</li></ul>"
+                "text": "<p style=\"font-size:20px;\">BEAVER LECTRONICS, White City, OR</p><p>Beaver Lectronics was a small contract manufacturing company specializing in Printed Circuit Board (<abbr title=\"Printed Circuit Board\">PCB</abbr>) and wiring harness manufacturer.</p><ul><li>Responsible for the timely delivery of materials throughout the 5-warehouse manufacturing complex.</li><li>Worked as a \"pick-n-place\" machine operator, placing components on <abbr title=\"Printed Circuit Board\">PCB</abbr>s when all material routing was complete.</li></ul>"
             }
         }
     ],
