@@ -1,6 +1,17 @@
 {
     "events": [{
             "start_date": {
+                "year": "2017",
+                "month": "2",
+                "day": "16"
+            },
+            "display_date": "2017 — Present",
+            "text": {
+                "headline": "Advanced Analytics Consultant",
+                "text": "<p style=\"font-size:20px;\">John Fitzpatrick Consulting, Phoenix, AZ</p><ul><li>Provide training and guidance to multiple clients on how to architect a modern, cost-effective analytics platform focusing on using the Microsfot Business Intelligence stack.</li><li>Created an automated method to pull data from Sage Accounts 50 and Workbooks CRM.</li><li>Performed performance tuining on Azure SQL databases.</li></ul>"
+            }
+        }, {
+            "start_date": {
                 "year": "2015",
                 "month": "3",
                 "day": "16"
