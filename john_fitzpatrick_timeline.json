@@ -5,10 +5,15 @@
                 "month": "2",
                 "day": "16"
             },
+            "end_date": {
+                "year": "2020",
+                "month": "12",
+                "day": "31"
+            },
             "display_date": "2017 — Present",
             "text": {
                 "headline": "Advanced Analytics Consultant",
-                "text": "<p style=\"font-size:20px;\">John Fitzpatrick Consulting, Chandler, AZ</p><ul><li>Designed 100+ advanced Power BI reports for more than 50 global clients. Some areas of focus include: finance, contracts, sales, marketing, manufacturing, inventory & logistics, R&D, retail, service, etc.</li><li>Provide training and guidance to multiple global clients on how to architect a modern, cost-effective analytics platform focusing on using the Microsfot Business Intelligence stack.</li><li>Automated an ETL pipline for extracting all changed data from a large SalesForce instance (>100GB) to a RedShift DataWarehouse. </li><li>Created an automated method to pull data from Sage Accounts 50 and Workbooks CRM.</li><li>Performed performance audits and optimization on many Azure SQL databases.</li></ul>"
+                "text": "<p style=\"font-size:20px;\">John Fitzpatrick Consulting, Chandler, AZ</p><ul><li>Designed 100+ advanced Power BI reports for more than 50 global clients. Some areas of focus include: finance, contracts, sales, marketing, manufacturing, inventory & logistics, R&D, retail, service, etc.</li><li>Provide training and guidance to multiple global clients on how to architect a modern, cost-effective analytics platform focusing on using the Microsfot Business Intelligence stack.</li><li>Created and managed multiple Azure Analysis Services data models for various clients for automated Power BI reporting.</li><li>Automated an ETL pipline for extracting all changed data from a large SalesForce instance (>100GB) to a RedShift DataWarehouse. </li><li>Created an automated method to pull data from Sage Accounts 50 and Workbooks CRM.</li><li>Performed performance audits and optimization on many Azure SQL databases.</li></ul>"
             }
         }, {
             "start_date": {
